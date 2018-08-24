@@ -40,7 +40,7 @@ def sign (data, apikey, secret):
 
 <br>
 
-## Docs Contents
+## Document Contents
 
 [Home](https://github.com/UEX-OpenAPI/API_Docs_en/wik)
 
