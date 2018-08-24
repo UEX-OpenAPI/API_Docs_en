@@ -42,7 +42,7 @@ def sign (data, apikey, secret):
 
 ## Document Contents
 
-[Home](https://github.com/UEX-OpenAPI/API_Docs_en/wik)
+[Home](https://github.com/UEX-OpenAPI/API_Docs_en/wiki)
 
 [/open/api/all_order -Get all delegation](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Get-all-delegation)
 
