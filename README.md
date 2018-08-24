@@ -1,46 +1,9 @@
-# UEX OpenAPI document
+# UEX OpenAPI documen
 
-## General Rules
-
-**"_api key_" and "_secret_" are not passwords and are generated in the UEX "[My API](https://www.uex.com/my_open_api.html)".**
-
-
-**Base url：https:// open-api.uex.com**
-
-**Signature**  
-The request parameters need to be ordered by dictionary, and then to be joined as string in the form of keyvalue，finally, sign=MD5(string+secretKey).  
-Note：If there is any NULL in the request parameters, then it isn’t be included in the signature string during joining.
-
-
-For example：  
-```python
-def sign (data, apikey, secret):
-    data = copy.deepcopy(data)
-    data['time'] = int(time.time())
-    data['api_key'] = apikey
-    keys = list(data.keys())
-    keys.sort()
-    part = []
-    for key in keys:
-        val = data[key]
-        if val is None:
-            continue
-        part.append(str(key) + str(val))
-    text = ''.join(part)
-    text = (text + secret).encode('utf-8')
-    data['sign'] = hashlib.md5(text).hexdigest()
-    return data 
-```
+中文文档 [点击这里](https://github.com/UEX-OpenAPI/API_Docs/wiki)
 
 <br>
 
-## POST the request parameters submitted data with form format
-
-**content-type:application/x-www-form-urlencoded**
-
-<br>
-
-## Document Contents
 
 [Home](https://github.com/UEX-OpenAPI/API_Docs_en/wiki)
 
