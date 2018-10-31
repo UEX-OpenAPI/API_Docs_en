@@ -31,7 +31,20 @@
 
 [/open/api/order_info -Get order details ](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Get-order-details)
 
-[/open/api/user/account -Asset balance](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Asset-balance)
+[/open/api/user/account -Asset balance](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Asset-balance
+
+[/open/api/common/coins-Query the limits of deposit and withdrawal of all currency](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Query-the-limits-of-deposit-and-withdrawal-of-all-currency)
+
+[/open/api/deposit_address_list-Query deposit address of assigned token](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Query-deposit-address-of-assigned-token)
+
+[/open/api/withdraw_address_list-Query withdraw address of assigned token](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Query-withdraw-address-of-assigned-token)
+
+[/open/api/deposit_history-Query deposit record of assigned token](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Query-deposit-record-of-assigned-token)
+
+[/open/api/withdraw_history-Query withdraw record of assigned token](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Query-withdraw-record-of-assigned-token)
+
+[/open/api/create_withdraw-Withdraw](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Withdraw)
+
 
 <br>
 
