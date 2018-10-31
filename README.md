@@ -31,7 +31,7 @@
 
 [/open/api/order_info -Get order details ](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Get-order-details)
 
-[/open/api/user/account -Asset balance](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Asset-balance
+[/open/api/user/account -Asset balance](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Asset-balance)
 
 [/open/api/common/coins-Query the limits of deposit and withdrawal of all currency](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Query-the-limits-of-deposit-and-withdrawal-of-all-currency)
 
