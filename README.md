@@ -7,6 +7,8 @@
 
 [Home](https://github.com/UEX-OpenAPI/API_Docs_en/wiki)
 
+[Error Code](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Error-Code)
+
 [/open/api/all_order -Get all delegation](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Get-all-delegation)
 
 [/open/api/all_trade -Get all transaction record](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Get-all-transaction-record)
