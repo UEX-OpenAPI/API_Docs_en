@@ -15,6 +15,12 @@
 
 [/open/api/cancel_order -Cancel delegation order](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Cancel-delegation-order)
 
+[/open/api/cancel_order_batch  -Batch cancel the delegation order of assigned token](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Batch-cancel-the-delegation-order-of-assigned-token)
+
+[/open/api/cancel_order_all -Cancel all orders of assigned token](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Cancel-all-orders-of-assigned-token)
+
+[/open/api/cancel_order_all_by_user  -Cancel all orders from the user](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Cancel-all-orders-from-the-user)
+
 [/open/api/common/symbols -Query all transaction pairs and accuracy supported by the system](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Query-all-transaction-pairs-and-accuracy-supported-by-system)
 
 [/open/api/create_order -Create order](https://github.com/UEX-OpenAPI/API_Docs_en/wiki/Create-order)
